@@ -1,0 +1,296 @@
+**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20170912094157
+Nom d'utilisateur : 0670081Z\Administrateur
+Utilisateur RunAs : 0670081Z\Administrateur
+Ordinateur : SRV-AD-1 (Microsoft Windows NT 6.3.9600.0)
+Application hôte : powershell.exe .\Velociraptor.ps1 -g
+ID de processus : 5420
+**********************
+& : Le terme «C:\Users\administrateur.0670081Z\Desktop\Philippe Logel\Scripts serveur\Creation
+viescos\create_viescos.ps1» n'est pas reconnu comme nom d'applet de commande, fonction, fichier de script ou programme
+exécutable. Vérifiez l'orthographe du nom, ou si un chemin d'accès existe, vérifiez que le chemin d'accès est correct
+et réessayez.
+Au caractère C:\Users\administrateur.0670081Z\Desktop\Philippe Logel\Scripts
+serveur\Velociraptor_Kernel\create_viescos.ps1:25 : 7
++     & "$scriptPath\Creation viescos\create_viescos.ps1" | out-host
++       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\admini...ate_viescos.ps1:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20170912094158
+**********************
+**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20190919105324
+Nom d'utilisateur : 0670081Z\administrateur
+Utilisateur RunAs : 0670081Z\administrateur
+Ordinateur : SRV-AD-1 (Microsoft Windows NT 6.3.9600.0)
+Application hôte : powershell.exe .\Velociraptor.ps1 -g
+ID de processus : 8168
+**********************
+dsadd réussite:CN=graffmanch,OU=Viesco_VLCR_PL_OU,OU=Velociraptor_PL_OU,DC=0670081z,DC=ac-strasbourg,DC=fr
+
+
+    Répertoire : \\SRV-FILE-1\home$\comptesViescos
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----        19/09/2019     10:53            graffmanch
+
+
+    Répertoire : \\SRV-FILE-1\home$\comptesViescos\graffmanch\
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----        19/09/2019     10:53            Desktop
+d----        19/09/2019     10:53            Documents
+fichier traité : \\SRV-FILE-1\home$\comptesViescos\graffmanch\
+1 fichiers correctement traités ; échec du traitement de 0 fichiers
+
+
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20190919105331
+**********************
+**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20190920114335
+Nom d'utilisateur : 0670081Z\administrateur
+Utilisateur RunAs : 0670081Z\administrateur
+Ordinateur : SRV-AD-1 (Microsoft Windows NT 6.3.9600.0)
+Application hôte : powershell.exe .\Velociraptor.ps1
+ID de processus : 6548
+**********************
+dsadd réussite:CN=titoco,OU=Viesco_VLCR_PL_OU,OU=Velociraptor_PL_OU,DC=0670081z,DC=ac-strasbourg,DC=fr
+
+
+    Répertoire : \\SRV-FILE-1\home$\comptesViescos
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----        20/09/2019     11:43            titoco
+
+
+    Répertoire : \\SRV-FILE-1\home$\comptesViescos\titoco\
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----        20/09/2019     11:43            Desktop
+d----        20/09/2019     11:43            Documents
+fichier traité : \\SRV-FILE-1\home$\comptesViescos\titoco\
+1 fichiers correctement traités ; échec du traitement de 0 fichiers
+
+
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20190920114343
+**********************
+**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20190920114859
+Nom d'utilisateur : 0670081Z\administrateur
+Utilisateur RunAs : 0670081Z\administrateur
+Ordinateur : SRV-AD-1 (Microsoft Windows NT 6.3.9600.0)
+Application hôte : powershell.exe .\Velociraptor.ps1 -g
+ID de processus : 6984
+**********************
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20190920114904
+**********************
+**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20190920120958
+Nom d'utilisateur : 0670081Z\administrateur
+Utilisateur RunAs : 0670081Z\administrateur
+Ordinateur : SRV-AD-1 (Microsoft Windows NT 6.3.9600.0)
+Application hôte : C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ID de processus : 6316
+**********************
+Transcription démarrée, le fichier de sortie est C:\Users\administrateur.0670081Z\Desktop\Philippe Logel\Scripts serveu
+r\Creation viescos\log.txt
+dsadd réussite:CN=graffmannch,OU=Viesco_VLCR_PL_OU,OU=Velociraptor_PL_OU,DC=0670081z,DC=ac-strasbourg,DC=fr
+
+
+    Répertoire : \\SRV-FILE-1\home$\comptesViescos
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----        20/09/2019     12:10            graffmannch
+
+
+    Répertoire : \\SRV-FILE-1\home$\comptesViescos\graffmannch\
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----        20/09/2019     12:10            Desktop
+d----        20/09/2019     12:10            Documents
+fichier traité : \\SRV-FILE-1\home$\comptesViescos\graffmannch\
+1 fichiers correctement traités ; échec du traitement de 0 fichiers
+
+
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20190920121004
+**********************
+**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20190920123226
+Nom d'utilisateur : 0670081Z\administrateur
+Utilisateur RunAs : 0670081Z\administrateur
+Ordinateur : SRV-AD-1 (Microsoft Windows NT 6.3.9600.0)
+Application hôte : powershell.exe .\Velociraptor.ps1 -g
+ID de processus : 1480
+**********************
+dsadd réussite:CN=graffmannch,OU=Viesco_VLCR_PL_OU,OU=Velociraptor_PL_OU,DC=0670081z,DC=ac-strasbourg,DC=fr
+
+
+    Répertoire : \\SRV-FILE-1\home$\comptesViescos
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----        20/09/2019     12:32            graffmannch
+
+
+    Répertoire : \\SRV-FILE-1\home$\comptesViescos\graffmannch\
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----        20/09/2019     12:32            Desktop
+d----        20/09/2019     12:32            Documents
+fichier traité : \\SRV-FILE-1\home$\comptesViescos\graffmannch\
+1 fichiers correctement traités ; échec du traitement de 0 fichiers
+
+
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20190920123233
+**********************
+**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20190920123321
+Nom d'utilisateur : 0670081Z\administrateur
+Utilisateur RunAs : 0670081Z\administrateur
+Ordinateur : SRV-AD-1 (Microsoft Windows NT 6.3.9600.0)
+Application hôte : powershell.exe .\Velociraptor.ps1 -g
+ID de processus : 6712
+**********************
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20190920123326
+**********************
+**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20190920123637
+Nom d'utilisateur : 0670081Z\administrateur
+Utilisateur RunAs : 0670081Z\administrateur
+Ordinateur : SRV-AD-1 (Microsoft Windows NT 6.3.9600.0)
+Application hôte : C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ID de processus : 6316
+**********************
+Transcription démarrée, le fichier de sortie est C:\Users\administrateur.0670081Z\Desktop\Philippe Logel\Scripts serveu
+r\Creation viescos\log.txt
+dsadd réussite:CN=graffmannch,OU=Viesco_VLCR_PL_OU,OU=Velociraptor_PL_OU,DC=0670081z,DC=ac-strasbourg,DC=fr
+
+
+    Répertoire : \\SRV-FILE-1\home$\comptesViescos
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----        20/09/2019     12:36            graffmannch
+
+
+    Répertoire : \\SRV-FILE-1\home$\comptesViescos\graffmannch\
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----        20/09/2019     12:36            Desktop
+d----        20/09/2019     12:36            Documents
+fichier traité : \\SRV-FILE-1\home$\comptesViescos\graffmannch\
+1 fichiers correctement traités ; échec du traitement de 0 fichiers
+
+
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20190920123643
+**********************
+**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20190920124202
+Nom d'utilisateur : 0670081Z\administrateur
+Utilisateur RunAs : 0670081Z\administrateur
+Ordinateur : SRV-AD-1 (Microsoft Windows NT 6.3.9600.0)
+Application hôte : C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ID de processus : 6316
+**********************
+Transcription démarrée, le fichier de sortie est C:\Users\administrateur.0670081Z\Desktop\Philippe Logel\Scripts serveu
+r\Creation viescos\log.txt
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20190920124207
+**********************
+**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20190920124958
+Nom d'utilisateur : 0670081Z\administrateur
+Utilisateur RunAs : 0670081Z\administrateur
+Ordinateur : SRV-AD-1 (Microsoft Windows NT 6.3.9600.0)
+Application hôte : C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ID de processus : 5008
+**********************
+Transcription démarrée, le fichier de sortie est C:\Users\administrateur.0670081Z\Desktop\Philippe Logel\Scripts serveu
+r\Creation viescos\log.txt
+dsadd réussite:CN=graffmannco,OU=Viesco_VLCR_PL_OU,OU=Velociraptor_PL_OU,DC=0670081z,DC=ac-strasbourg,DC=fr
+
+
+    Répertoire : \\SRV-FILE-1\home$\comptesViescos
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----        20/09/2019     12:50            graffmannco
+
+
+    Répertoire : \\SRV-FILE-1\home$\comptesViescos\graffmannco\
+
+
+Mode                LastWriteTime     Length Name
+----                -------------     ------ ----
+d----        20/09/2019     12:50            Desktop
+d----        20/09/2019     12:50            Documents
+fichier traité : \\SRV-FILE-1\home$\comptesViescos\graffmannco\
+1 fichiers correctement traités ; échec du traitement de 0 fichiers
+
+
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20190920125005
+**********************
+**********************
+Début de la transcription Windows PowerShell
+Heure de début : 20190920125033
+Nom d'utilisateur : 0670081Z\administrateur
+Utilisateur RunAs : 0670081Z\administrateur
+Ordinateur : SRV-AD-1 (Microsoft Windows NT 6.3.9600.0)
+Application hôte : C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ID de processus : 5008
+**********************
+Transcription démarrée, le fichier de sortie est C:\Users\administrateur.0670081Z\Desktop\Philippe Logel\Scripts serveu
+r\Creation viescos\log.txt
+**********************
+Fin de la transcription Windows PowerShell
+Heure de fin : 20190920125038
+**********************

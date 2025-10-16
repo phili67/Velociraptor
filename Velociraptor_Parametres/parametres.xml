@@ -1,0 +1,30 @@
+<config description="Configuration Velociraptor&#xD;&#xA;&#xD;&#xA;# Vous devez bien renseigner l'ensemble pour que cela marche !!!!&#xD;&#xA;    # ATTENTION : si les classes sont sous la forme : 2ND 1 vous écrirez 2ND1, pour 3eme A ou écrire 3EMEA&#xD;&#xA;    #             Cette partie est la plus délicate, aucune classe ne doit manquer !!!!&#xD;&#xA;    #">
+  <dateXMLFile desc="22/11/2019" />
+  <version desc="1.2b3 B74" />
+  <classes desc="1G01,1G02,1G03,1G04,1G05,1G06,1G07,1G08,1G09,1G10,2NDE01,2NDE02,2NDE03,2NDE04,2NDE05,2NDE06,2NDE07,2NDE08,2NDE09,2NDEFLS,ECS1,ECS2,MIO,TES1,TES2,TES3,TL1,TL2,TS1,TS2,TS3,TS4,TS5" />
+  <roamingProfile desc="1" />
+  <domaine desc="0670081z.ac-strasbourg.fr" />
+  <profilePath desc="\\SRV-FILE-1\home$" />
+  <shareFolders desc="\\SRV-FILE-1\partages$" />
+  <quotaEleves desc="1000" />
+  <quotaProfesseurs desc="1000" />
+  <quotaViesco desc="1000" />
+  <eleves desc="permet de connaître le nombre de comptes élèves à créer ou à purger">
+    <nbrEleves desc="0" />
+    <nbrElevesPurge desc="0" />
+  </eleves>
+  <Profs desc="permet de connaître le nombre de comptes Professeurs à créer ou à purger">
+    <nbrProfs desc="0" />
+    <nbrProfsPurge desc="0" />
+  </Profs>
+  <Viescos desc="permet de connaître le nombre de comptes Viescos à créer ou à purger">
+    <nbrViescos desc="0" />
+    <nbrViescosPurge desc="0" />
+  </Viescos>
+  <paths desc="Les chemins d'accès qui pointent sur les extractions élèves, profs et viescos">
+    <pathSconetXML desc="C:\Users\administrateur.0670081Z\Desktop\Philippe Logel\Scripts serveur\ElevesSansAdresses_2019_11_22.xml" />
+    <pathEleves desc="C:\Users\administrateur.0670081Z\Desktop\Philippe Logel\Scripts serveur\eleves.txt" />
+    <pathProfesseurs desc="C:\Users\administrateur.0670081Z\Desktop\Philippe Logel\Scripts serveur\professeurs.txt" />
+    <pathViescos desc="./viescos.txt" />
+  </paths>
+</config>
