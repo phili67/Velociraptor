@@ -26,3 +26,6 @@ On se laisse alors guider selon les onglets :
 <img width="752" height="598" alt="Capture d’écran 2025-10-16 à 19 16 31" src="https://github.com/user-attachments/assets/0a8c821b-2d9c-4293-a7c9-2e6eeda31fdc" />
 
 <img width="779" height="720" alt="Capture d’écran 2025-10-16 à 19 17 11" src="https://github.com/user-attachments/assets/b37e11fa-7996-4700-9459-52da120d993c" />
+
+
+Pour de plus amples détails voire la documentation complète VLCR : [ici](https://github.com/phili67/Velociraptor/blob/main/Doc_Velociraptor.pdf).
